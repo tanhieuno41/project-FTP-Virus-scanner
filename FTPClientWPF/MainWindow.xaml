@@ -639,13 +639,12 @@
                         <DataGrid x:Name="ServerFilesGrid" 
                                   Grid.Row="2" 
                                   Background="#252526"
-                                  Foreground="White"
                                   BorderBrush="#3F3F46"
                                   BorderThickness="1"
                                   GridLinesVisibility="Horizontal"
-                                  HorizontalGridLinesBrush="#3F3F46"
-                                  RowBackground="#252526"
-                                  AlternatingRowBackground="#2D2D30"
+                                  HorizontalGridLinesBrush="#252526"
+                                  RowBackground="#FF83BCDA"
+                                  AlternatingRowBackground="#252526"
                                   HeadersVisibility="Column"
                                   CanUserAddRows="False"
                                   CanUserDeleteRows="False"
@@ -653,9 +652,8 @@
                                   SelectionMode="Extended"
                                   SelectionUnit="FullRow"
                                   Margin="8,0,8,8"
-                                  AutoGenerateColumns="False"
                                   MouseDoubleClick="ServerFilesGrid_MouseDoubleClick"
-                                  ContextMenuOpening="ServerFilesGrid_ContextMenuOpening">
+                                  ContextMenuOpening="ServerFilesGrid_ContextMenuOpening" AutoGenerateColumns="False" CellStyle="{Binding Background, ElementName=ServerFilesGrid}" FontFamily="Arial" Foreground="#FFC74B4B">
                             <DataGrid.Columns>
                                 <DataGridTextColumn Header="Name" 
                                                     Binding="{Binding FileName}" 
