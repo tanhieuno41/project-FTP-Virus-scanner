@@ -1,0 +1,17 @@
+G:\FTPS-Client-ftp-over-ssl\FTPClientWPF\bin\Debug\net48\FTPClientWPF.exe.config
+G:\FTPS-Client-ftp-over-ssl\FTPClientWPF\bin\Debug\net48\FTPClientWPF.exe
+G:\FTPS-Client-ftp-over-ssl\FTPClientWPF\bin\Debug\net48\FTPClientWPF.pdb
+G:\FTPS-Client-ftp-over-ssl\FTPClientWPF\bin\Debug\net48\Newtonsoft.Json.dll
+G:\FTPS-Client-ftp-over-ssl\FTPClientWPF\obj\Debug\net48\FTPClientWPF.csproj.AssemblyReference.cache
+G:\FTPS-Client-ftp-over-ssl\FTPClientWPF\obj\Debug\net48\MainWindow.baml
+G:\FTPS-Client-ftp-over-ssl\FTPClientWPF\obj\Debug\net48\App.baml
+G:\FTPS-Client-ftp-over-ssl\FTPClientWPF\obj\Debug\net48\MainWindow.g.cs
+G:\FTPS-Client-ftp-over-ssl\FTPClientWPF\obj\Debug\net48\App.g.cs
+G:\FTPS-Client-ftp-over-ssl\FTPClientWPF\obj\Debug\net48\FTPClientWPF_MarkupCompile.cache
+G:\FTPS-Client-ftp-over-ssl\FTPClientWPF\obj\Debug\net48\FTPClientWPF.g.resources
+G:\FTPS-Client-ftp-over-ssl\FTPClientWPF\obj\Debug\net48\FTPClientWPF.GeneratedMSBuildEditorConfig.editorconfig
+G:\FTPS-Client-ftp-over-ssl\FTPClientWPF\obj\Debug\net48\FTPClientWPF.csproj.CoreCompileInputs.cache
+G:\FTPS-Client-ftp-over-ssl\FTPClientWPF\obj\Debug\net48\FTPClientWPF.sourcelink.json
+G:\FTPS-Client-ftp-over-ssl\FTPClientWPF\obj\Debug\net48\FTPClien.8FD31927.Up2Date
+G:\FTPS-Client-ftp-over-ssl\FTPClientWPF\obj\Debug\net48\FTPClientWPF.exe
+G:\FTPS-Client-ftp-over-ssl\FTPClientWPF\obj\Debug\net48\FTPClientWPF.pdb

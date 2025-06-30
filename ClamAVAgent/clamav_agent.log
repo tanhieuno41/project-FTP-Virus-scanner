@@ -1,0 +1,388 @@
+2025-06-29 16:34:58,416 - INFO - ClamAV Agent started on 0.0.0.0:9999
+2025-06-29 16:44:30,844 - INFO - ClamAV Agent started on 0.0.0.0:9999
+2025-06-29 17:08:12,911 - INFO - Connection from ('127.0.0.1', 63013)
+2025-06-29 17:08:21,276 - INFO - Connection from ('127.0.0.1', 63019)
+2025-06-29 17:08:21,298 - INFO - Receiving file: FTPClientWPF.exe.config (1497 bytes)
+2025-06-29 17:08:21,299 - INFO - File received: FTPClientWPF.exe.config
+2025-06-29 17:08:21,305 - INFO - Scan result for FTPClientWPF.exe.config: ERROR
+2025-06-29 17:10:15,690 - INFO - Connection from ('127.0.0.1', 63051)
+2025-06-29 17:10:15,691 - INFO - Receiving file: clean_file.txt (228 bytes)
+2025-06-29 17:10:15,692 - INFO - File received: clean_file.txt
+2025-06-29 17:10:15,698 - INFO - Scan result for clean_file.txt: ERROR
+2025-06-29 17:22:03,352 - INFO - Connection from ('127.0.0.1', 63885)
+2025-06-29 17:22:28,045 - INFO - ClamAV Agent started on 0.0.0.0:9999
+2025-06-29 17:22:32,233 - INFO - Connection from ('127.0.0.1', 63902)
+2025-06-29 17:22:38,673 - INFO - Connection from ('127.0.0.1', 63904)
+2025-06-29 17:22:38,695 - INFO - Receiving file: clean_file.txt (228 bytes)
+2025-06-29 17:22:38,696 - INFO - File received: clean_file.txt
+2025-06-29 17:22:38,701 - INFO - Scan result for clean_file.txt: ERROR
+2025-06-29 17:28:10,746 - INFO - Connection from ('127.0.0.1', 64199)
+2025-06-29 17:28:17,320 - INFO - Connection from ('127.0.0.1', 64204)
+2025-06-29 17:28:17,341 - INFO - Receiving file: clean_file.txt (228 bytes)
+2025-06-29 17:28:17,342 - INFO - File received: clean_file.txt
+2025-06-29 17:28:17,347 - INFO - Scan result for clean_file.txt: ERROR
+2025-06-29 17:31:34,712 - INFO - ClamAV Agent started on 0.0.0.0:9999
+2025-06-29 17:31:44,346 - INFO - Connection from ('127.0.0.1', 64498)
+2025-06-29 17:31:44,348 - WARNING - No data received from ('127.0.0.1', 64498)
+2025-06-29 17:31:50,933 - INFO - Connection from ('127.0.0.1', 64505)
+2025-06-29 17:31:50,955 - INFO - Receiving file: clean_file.txt (228 bytes) from ('127.0.0.1', 64505)
+2025-06-29 17:31:50,956 - INFO - File received successfully: clean_file.txt (228 bytes)
+2025-06-29 17:31:50,962 - INFO - Scan result for clean_file.txt: ERROR - Scan error: [WinError 2] The system cannot find the file specified
+2025-06-29 17:34:52,965 - INFO - ClamAV Agent started on 0.0.0.0:9999
+2025-06-29 17:34:56,749 - INFO - Connection from ('127.0.0.1', 64728)
+2025-06-29 17:34:56,751 - WARNING - No data received from ('127.0.0.1', 64728)
+2025-06-29 17:35:00,266 - INFO - Connection from ('127.0.0.1', 64729)
+2025-06-29 17:35:00,267 - WARNING - No data received from ('127.0.0.1', 64729)
+2025-06-29 17:35:08,289 - INFO - Connection from ('127.0.0.1', 64731)
+2025-06-29 17:35:08,291 - WARNING - No data received from ('127.0.0.1', 64731)
+2025-06-29 17:35:12,472 - INFO - Connection from ('127.0.0.1', 64732)
+2025-06-29 17:35:12,473 - INFO - Receiving file: clean_file.txt (228 bytes) from ('127.0.0.1', 64732)
+2025-06-29 17:35:12,474 - INFO - File received successfully: clean_file.txt (228 bytes)
+2025-06-29 17:35:12,617 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 17:35:12,628 - INFO - Scan result for clean_file.txt: WARNING - Suspicious content detected: virus (fallback scan)
+2025-06-29 17:35:29,689 - INFO - Connection from ('127.0.0.1', 64735)
+2025-06-29 17:35:29,694 - INFO - Receiving file: Capture.PNG (17165 bytes) from ('127.0.0.1', 64735)
+2025-06-29 17:35:29,696 - INFO - File received successfully: Capture.PNG (17165 bytes)
+2025-06-29 17:35:29,737 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 17:35:29,739 - INFO - Scan result for Capture.PNG: OK - File appears clean (fallback scan, 17165 bytes)
+2025-06-29 17:39:39,812 - INFO - Connection from ('127.0.0.1', 64879)
+2025-06-29 17:39:39,813 - WARNING - No data received from ('127.0.0.1', 64879)
+2025-06-29 17:39:51,128 - INFO - Connection from ('127.0.0.1', 64883)
+2025-06-29 17:39:51,150 - INFO - Receiving file: Capture.PNG (17165 bytes) from ('127.0.0.1', 64883)
+2025-06-29 17:39:51,151 - INFO - File received successfully: Capture.PNG (17165 bytes)
+2025-06-29 17:39:51,195 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 17:39:51,197 - INFO - Scan result for Capture.PNG: OK - File appears clean (fallback scan, 17165 bytes)
+2025-06-29 17:58:10,355 - INFO - Connection from ('127.0.0.1', 49782)
+2025-06-29 17:58:10,358 - WARNING - No data received from ('127.0.0.1', 49782)
+2025-06-29 17:59:45,524 - INFO - Connection from ('127.0.0.1', 49828)
+2025-06-29 17:59:45,531 - WARNING - No data received from ('127.0.0.1', 49828)
+2025-06-29 18:00:09,396 - INFO - Connection from ('127.0.0.1', 49854)
+2025-06-29 18:00:09,399 - WARNING - No data received from ('127.0.0.1', 49854)
+2025-06-29 18:00:15,039 - INFO - Connection from ('127.0.0.1', 49858)
+2025-06-29 18:00:15,056 - INFO - Receiving file: README.md (7456 bytes) from ('127.0.0.1', 49858)
+2025-06-29 18:00:15,058 - INFO - File received successfully: README.md (7456 bytes)
+2025-06-29 18:00:15,109 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 18:00:15,111 - INFO - Scan result for README.md: OK - File appears clean (fallback scan, 7456 bytes)
+2025-06-29 18:00:40,901 - INFO - Connection from ('127.0.0.1', 49868)
+2025-06-29 18:00:40,904 - INFO - Receiving file: RUN_SYSTEM.md (5727 bytes) from ('127.0.0.1', 49868)
+2025-06-29 18:00:40,905 - INFO - File received successfully: RUN_SYSTEM.md (5727 bytes)
+2025-06-29 18:00:40,952 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 18:00:40,954 - INFO - Scan result for RUN_SYSTEM.md: OK - File appears clean (fallback scan, 5727 bytes)
+2025-06-29 18:01:22,444 - INFO - Connection from ('127.0.0.1', 49873)
+2025-06-29 18:01:22,447 - INFO - Receiving file: Capture.PNG (17165 bytes) from ('127.0.0.1', 49873)
+2025-06-29 18:01:22,449 - INFO - File received successfully: Capture.PNG (17165 bytes)
+2025-06-29 18:01:22,496 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 18:01:22,498 - INFO - Scan result for Capture.PNG: OK - File appears clean (fallback scan, 17165 bytes)
+2025-06-29 18:02:05,265 - INFO - Connection from ('127.0.0.1', 49888)
+2025-06-29 18:02:05,268 - INFO - Receiving file: Capture.PNG (17165 bytes) from ('127.0.0.1', 49888)
+2025-06-29 18:02:05,271 - INFO - File received successfully: Capture.PNG (17165 bytes)
+2025-06-29 18:02:05,316 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 18:02:05,318 - INFO - Scan result for Capture.PNG: OK - File appears clean (fallback scan, 17165 bytes)
+2025-06-29 18:19:28,462 - INFO - Connection from ('127.0.0.1', 50587)
+2025-06-29 18:19:28,465 - WARNING - No data received from ('127.0.0.1', 50587)
+2025-06-29 18:22:34,004 - INFO - Connection from ('127.0.0.1', 50666)
+2025-06-29 18:22:34,026 - INFO - Receiving file: NgocRongHay.rar (28660392 bytes) from ('127.0.0.1', 50666)
+2025-06-29 18:22:34,231 - INFO - File received successfully: NgocRongHay.rar (28660392 bytes)
+2025-06-29 18:22:34,277 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 18:22:34,278 - INFO - Scan result for NgocRongHay.rar: OK - File appears clean (fallback scan, 28660392 bytes)
+2025-06-29 18:32:49,219 - INFO - Connection from ('127.0.0.1', 50927)
+2025-06-29 18:32:49,221 - WARNING - No data received from ('127.0.0.1', 50927)
+2025-06-29 18:33:03,230 - INFO - Connection from ('127.0.0.1', 50934)
+2025-06-29 18:33:03,253 - INFO - Receiving file: NgocRongHay.rar (28660392 bytes) from ('127.0.0.1', 50934)
+2025-06-29 18:33:03,401 - INFO - File received successfully: NgocRongHay.rar (28660392 bytes)
+2025-06-29 18:33:03,447 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 18:33:03,447 - INFO - Scan result for NgocRongHay.rar: OK - File appears clean (fallback scan, 28660392 bytes)
+2025-06-29 18:37:27,673 - INFO - Connection from ('127.0.0.1', 51090)
+2025-06-29 18:37:27,676 - WARNING - No data received from ('127.0.0.1', 51090)
+2025-06-29 18:37:48,654 - INFO - Connection from ('127.0.0.1', 51102)
+2025-06-29 18:37:48,675 - INFO - Receiving file: NgocRongHay.rar (28660392 bytes) from ('127.0.0.1', 51102)
+2025-06-29 18:37:48,817 - INFO - File received successfully: NgocRongHay.rar (28660392 bytes)
+2025-06-29 18:37:48,864 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 18:37:48,866 - INFO - Scan result for NgocRongHay.rar: OK - File appears clean (fallback scan, 28660392 bytes)
+2025-06-29 18:38:00,891 - INFO - Connection from ('127.0.0.1', 51103)
+2025-06-29 18:38:00,896 - INFO - Receiving file: NgocRongHay.rar (28660392 bytes) from ('127.0.0.1', 51103)
+2025-06-29 18:38:01,009 - INFO - File received successfully: NgocRongHay.rar (28660392 bytes)
+2025-06-29 18:38:01,053 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 18:38:01,055 - INFO - Scan result for NgocRongHay.rar: OK - File appears clean (fallback scan, 28660392 bytes)
+2025-06-29 18:42:39,191 - INFO - Connection from ('127.0.0.1', 51602)
+2025-06-29 18:42:39,193 - WARNING - No data received from ('127.0.0.1', 51602)
+2025-06-29 18:43:01,553 - INFO - Connection from ('127.0.0.1', 51625)
+2025-06-29 18:43:01,575 - INFO - Receiving file: NgocRongHay.rar (28660392 bytes) from ('127.0.0.1', 51625)
+2025-06-29 18:43:01,711 - INFO - File received successfully: NgocRongHay.rar (28660392 bytes)
+2025-06-29 18:43:01,758 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 18:43:01,759 - INFO - Scan result for NgocRongHay.rar: OK - File appears clean (fallback scan, 28660392 bytes)
+2025-06-29 18:45:45,180 - INFO - Connection from ('127.0.0.1', 51783)
+2025-06-29 18:45:45,183 - WARNING - No data received from ('127.0.0.1', 51783)
+2025-06-29 18:45:52,536 - INFO - Connection from ('127.0.0.1', 51789)
+2025-06-29 18:45:52,559 - INFO - Receiving file: ChatGPT Image 23_01_35 22 thg 6, 2025.png (3364406 bytes) from ('127.0.0.1', 51789)
+2025-06-29 18:45:52,578 - INFO - File received successfully: ChatGPT Image 23_01_35 22 thg 6, 2025.png (3364406 bytes)
+2025-06-29 18:45:52,623 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 18:45:52,624 - INFO - Scan result for ChatGPT Image 23_01_35 22 thg 6, 2025.png: OK - File appears clean (fallback scan, 3364406 bytes)
+2025-06-29 18:47:02,082 - INFO - Connection from ('127.0.0.1', 51957)
+2025-06-29 18:47:02,084 - WARNING - No data received from ('127.0.0.1', 51957)
+2025-06-29 18:47:06,251 - INFO - Connection from ('127.0.0.1', 51959)
+2025-06-29 18:47:06,273 - INFO - Receiving file: ChatGPT Image 21_37_13 25 thg 6, 2025.png (1636556 bytes) from ('127.0.0.1', 51959)
+2025-06-29 18:47:06,282 - INFO - File received successfully: ChatGPT Image 21_37_13 25 thg 6, 2025.png (1636556 bytes)
+2025-06-29 18:47:06,325 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 18:47:06,326 - INFO - Scan result for ChatGPT Image 21_37_13 25 thg 6, 2025.png: OK - File appears clean (fallback scan, 1636556 bytes)
+2025-06-29 18:47:18,342 - INFO - Connection from ('127.0.0.1', 51960)
+2025-06-29 18:47:18,344 - INFO - Receiving file: ChatGPT Image 21_37_13 25 thg 6, 2025.png (1636556 bytes) from ('127.0.0.1', 51960)
+2025-06-29 18:47:18,354 - INFO - File received successfully: ChatGPT Image 21_37_13 25 thg 6, 2025.png (1636556 bytes)
+2025-06-29 18:47:18,398 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 18:47:18,399 - INFO - Scan result for ChatGPT Image 21_37_13 25 thg 6, 2025.png: OK - File appears clean (fallback scan, 1636556 bytes)
+2025-06-29 18:50:11,969 - INFO - Connection from ('127.0.0.1', 52106)
+2025-06-29 18:50:11,971 - WARNING - No data received from ('127.0.0.1', 52106)
+2025-06-29 18:50:17,147 - INFO - Connection from ('127.0.0.1', 52119)
+2025-06-29 18:50:17,169 - INFO - Receiving file: ChatGPT Image 21_37_13 25 thg 6, 2025.png (1636556 bytes) from ('127.0.0.1', 52119)
+2025-06-29 18:50:17,179 - INFO - File received successfully: ChatGPT Image 21_37_13 25 thg 6, 2025.png (1636556 bytes)
+2025-06-29 18:50:17,223 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 18:50:17,224 - INFO - Scan result for ChatGPT Image 21_37_13 25 thg 6, 2025.png: OK - File appears clean (fallback scan, 1636556 bytes)
+2025-06-29 18:50:46,114 - INFO - Connection from ('127.0.0.1', 52145)
+2025-06-29 18:50:46,117 - INFO - Receiving file: FTPSClient.Siticone.Designer.cs (4640 bytes) from ('127.0.0.1', 52145)
+2025-06-29 18:50:46,118 - INFO - File received successfully: FTPSClient.Siticone.Designer.cs (4640 bytes)
+2025-06-29 18:50:46,161 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 18:50:46,162 - INFO - Scan result for FTPSClient.Siticone.Designer.cs: OK - File appears clean (fallback scan, 4640 bytes)
+2025-06-29 18:56:43,827 - INFO - Connection from ('127.0.0.1', 52365)
+2025-06-29 18:56:43,829 - WARNING - No data received from ('127.0.0.1', 52365)
+2025-06-29 18:56:59,681 - INFO - Connection from ('127.0.0.1', 52375)
+2025-06-29 18:56:59,702 - INFO - Receiving file: ChatGPT Image 21_37_13 25 thg 6, 2025.png (1636556 bytes) from ('127.0.0.1', 52375)
+2025-06-29 18:56:59,711 - INFO - File received successfully: ChatGPT Image 21_37_13 25 thg 6, 2025.png (1636556 bytes)
+2025-06-29 18:56:59,756 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 18:56:59,757 - INFO - Scan result for ChatGPT Image 21_37_13 25 thg 6, 2025.png: OK - File appears clean (fallback scan, 1636556 bytes)
+2025-06-29 19:00:04,289 - INFO - Connection from ('127.0.0.1', 52468)
+2025-06-29 19:00:04,291 - WARNING - No data received from ('127.0.0.1', 52468)
+2025-06-29 19:00:08,329 - INFO - Connection from ('127.0.0.1', 52472)
+2025-06-29 19:00:08,370 - INFO - Receiving file: ChatGPT Image 21_37_13 25 thg 6, 2025.png (1636556 bytes) from ('127.0.0.1', 52472)
+2025-06-29 19:00:08,379 - INFO - File received successfully: ChatGPT Image 21_37_13 25 thg 6, 2025.png (1636556 bytes)
+2025-06-29 19:00:08,424 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 19:00:08,425 - INFO - Scan result for ChatGPT Image 21_37_13 25 thg 6, 2025.png: OK - File appears clean (fallback scan, 1636556 bytes)
+2025-06-29 22:19:01,502 - INFO - ClamAV Agent started on 0.0.0.0:9999
+2025-06-29 22:23:40,959 - INFO - Connection from ('127.0.0.1', 54665)
+2025-06-29 22:23:40,962 - WARNING - No data received from ('127.0.0.1', 54665)
+2025-06-29 22:23:47,772 - INFO - Connection from ('127.0.0.1', 54667)
+2025-06-29 22:23:47,794 - INFO - Receiving file: FTPSClient.Designer (1).cs (4779 bytes) from ('127.0.0.1', 54667)
+2025-06-29 22:23:47,795 - INFO - File received successfully: FTPSClient.Designer (1).cs (4779 bytes)
+2025-06-29 22:23:48,134 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 22:23:48,134 - INFO - Scan result for FTPSClient.Designer (1).cs: OK - File appears clean (fallback scan, 4779 bytes)
+2025-06-29 22:27:38,409 - INFO - Connection from ('127.0.0.1', 54805)
+2025-06-29 22:27:38,410 - WARNING - No data received from ('127.0.0.1', 54805)
+2025-06-29 22:36:49,859 - INFO - Connection from ('127.0.0.1', 55071)
+2025-06-29 22:36:49,860 - WARNING - No data received from ('127.0.0.1', 55071)
+2025-06-29 22:43:57,995 - INFO - Connection from ('127.0.0.1', 55195)
+2025-06-29 22:43:57,996 - WARNING - No data received from ('127.0.0.1', 55195)
+2025-06-29 22:45:05,703 - INFO - Connection from ('127.0.0.1', 55212)
+2025-06-29 22:45:05,725 - INFO - Receiving file: virus1.txt (68 bytes) from ('127.0.0.1', 55212)
+2025-06-29 22:45:05,726 - INFO - File received successfully: virus1.txt (68 bytes)
+2025-06-29 22:45:05,773 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 22:45:05,776 - INFO - Scan result for virus1.txt: WARNING - Suspicious content detected: virus (fallback scan)
+2025-06-29 22:47:46,047 - INFO - Connection from ('127.0.0.1', 55247)
+2025-06-29 22:47:46,050 - INFO - Receiving file: clamav_agent.py (1126 bytes) from ('127.0.0.1', 55247)
+2025-06-29 22:47:46,055 - INFO - File received successfully: clamav_agent.py (1126 bytes)
+2025-06-29 22:47:46,104 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 22:47:46,105 - INFO - Scan result for clamav_agent.py: OK - File appears clean (fallback scan, 1126 bytes)
+2025-06-29 22:48:28,845 - INFO - Connection from ('127.0.0.1', 55262)
+2025-06-29 22:48:28,847 - INFO - Receiving file: clamav_agent.py (1126 bytes) from ('127.0.0.1', 55262)
+2025-06-29 22:48:28,850 - INFO - File received successfully: clamav_agent.py (1126 bytes)
+2025-06-29 22:48:28,895 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 22:48:28,896 - INFO - Scan result for clamav_agent.py: OK - File appears clean (fallback scan, 1126 bytes)
+2025-06-29 22:48:29,965 - INFO - Connection from ('127.0.0.1', 55265)
+2025-06-29 22:48:29,967 - INFO - Receiving file: clean1.txt (0 bytes) from ('127.0.0.1', 55265)
+2025-06-29 22:48:29,968 - INFO - File received successfully: clean1.txt (0 bytes)
+2025-06-29 22:48:30,017 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 22:48:30,017 - INFO - Scan result for clean1.txt: OK - File appears clean (fallback scan, 0 bytes)
+2025-06-29 22:48:30,629 - INFO - Connection from ('127.0.0.1', 55268)
+2025-06-29 22:48:30,633 - INFO - Receiving file: ftp_client.py (8532 bytes) from ('127.0.0.1', 55268)
+2025-06-29 22:48:30,650 - INFO - File received successfully: ftp_client.py (8532 bytes)
+2025-06-29 22:48:30,693 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 22:48:30,694 - INFO - Scan result for ftp_client.py: OK - File appears clean (fallback scan, 8532 bytes)
+2025-06-29 22:48:31,301 - INFO - Connection from ('127.0.0.1', 55271)
+2025-06-29 22:48:31,305 - INFO - Receiving file: hi.txt (7 bytes) from ('127.0.0.1', 55271)
+2025-06-29 22:48:31,314 - INFO - File received successfully: hi.txt (7 bytes)
+2025-06-29 22:48:31,360 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 22:48:31,362 - INFO - Scan result for hi.txt: OK - File appears clean (fallback scan, 7 bytes)
+2025-06-29 22:48:31,996 - INFO - Connection from ('127.0.0.1', 55274)
+2025-06-29 22:48:32,001 - INFO - Receiving file: picture.jpg (311723 bytes) from ('127.0.0.1', 55274)
+2025-06-29 22:48:32,008 - INFO - File received successfully: picture.jpg (311723 bytes)
+2025-06-29 22:48:32,052 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 22:48:32,053 - INFO - Scan result for picture.jpg: OK - File appears clean (fallback scan, 311723 bytes)
+2025-06-29 22:48:32,797 - INFO - Connection from ('127.0.0.1', 55277)
+2025-06-29 22:48:32,799 - INFO - Receiving file: virus.txt (68 bytes) from ('127.0.0.1', 55277)
+2025-06-29 22:48:32,812 - INFO - File received successfully: virus.txt (68 bytes)
+2025-06-29 22:48:32,856 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 22:48:32,858 - INFO - Scan result for virus.txt: WARNING - Suspicious content detected: virus (fallback scan)
+2025-06-29 22:48:33,301 - INFO - Connection from ('127.0.0.1', 55278)
+2025-06-29 22:48:33,307 - INFO - Receiving file: virus1.txt (68 bytes) from ('127.0.0.1', 55278)
+2025-06-29 22:48:33,308 - INFO - File received successfully: virus1.txt (68 bytes)
+2025-06-29 22:48:33,353 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 22:48:33,356 - INFO - Scan result for virus1.txt: WARNING - Suspicious content detected: virus (fallback scan)
+2025-06-29 23:01:16,289 - INFO - Connection from ('127.0.0.1', 55489)
+2025-06-29 23:01:16,291 - WARNING - No data received from ('127.0.0.1', 55489)
+2025-06-29 23:01:16,373 - INFO - Connection from ('127.0.0.1', 55490)
+2025-06-29 23:01:16,375 - WARNING - No data received from ('127.0.0.1', 55490)
+2025-06-29 23:06:52,201 - INFO - Connection from ('127.0.0.1', 55610)
+2025-06-29 23:06:52,203 - WARNING - No data received from ('127.0.0.1', 55610)
+2025-06-29 23:06:58,282 - INFO - Connection from ('127.0.0.1', 55611)
+2025-06-29 23:06:58,298 - INFO - Receiving file: 222.txt (68 bytes) from ('127.0.0.1', 55611)
+2025-06-29 23:06:58,299 - INFO - File received successfully: 222.txt (68 bytes)
+2025-06-29 23:06:58,348 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 23:06:58,351 - INFO - Scan result for 222.txt: WARNING - Suspicious content detected: virus (fallback scan)
+2025-06-29 23:11:20,051 - INFO - Connection from ('127.0.0.1', 55693)
+2025-06-29 23:11:20,053 - WARNING - No data received from ('127.0.0.1', 55693)
+2025-06-29 23:11:47,686 - INFO - Connection from ('127.0.0.1', 55699)
+2025-06-29 23:11:47,707 - INFO - Receiving file: 2025-06-29 23-03-40.mp4 (68282247 bytes) from ('127.0.0.1', 55699)
+2025-06-29 23:11:48,034 - INFO - File received successfully: 2025-06-29 23-03-40.mp4 (68282247 bytes)
+2025-06-29 23:11:48,082 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 23:11:48,083 - INFO - Scan result for 2025-06-29 23-03-40.mp4: OK - File appears clean (fallback scan, 68282247 bytes)
+2025-06-29 23:18:43,529 - INFO - Connection from ('127.0.0.1', 55949)
+2025-06-29 23:18:43,531 - WARNING - No data received from ('127.0.0.1', 55949)
+2025-06-29 23:18:50,449 - INFO - Connection from ('127.0.0.1', 55951)
+2025-06-29 23:18:50,471 - INFO - Receiving file: 2025-05-17 10-38-41.mkv (14757424 bytes) from ('127.0.0.1', 55951)
+2025-06-29 23:18:50,541 - INFO - File received successfully: 2025-05-17 10-38-41.mkv (14757424 bytes)
+2025-06-29 23:18:50,588 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 23:18:50,589 - INFO - Scan result for 2025-05-17 10-38-41.mkv: OK - File appears clean (fallback scan, 14757424 bytes)
+2025-06-29 23:19:25,830 - INFO - Connection from ('127.0.0.1', 55959)
+2025-06-29 23:19:25,834 - INFO - Receiving file: 2025-04-30 22-27-07.mkv (188760152 bytes) from ('127.0.0.1', 55959)
+2025-06-29 23:19:26,710 - INFO - File received successfully: 2025-04-30 22-27-07.mkv (188760152 bytes)
+2025-06-29 23:19:26,757 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 23:19:26,757 - INFO - Scan result for 2025-04-30 22-27-07.mkv: WARNING - Large file detected: 188760152 bytes (fallback scan)
+2025-06-29 23:22:21,473 - INFO - Connection from ('127.0.0.1', 55986)
+2025-06-29 23:24:44,916 - INFO - Receiving file: 2025-06-29 23-03-40.mp4 (68282247 bytes) from ('127.0.0.1', 55986)
+2025-06-29 23:24:44,916 - INFO - Connection from ('127.0.0.1', 55988)
+2025-06-29 23:24:44,917 - ERROR - Error handling client ('127.0.0.1', 55986): [WinError 10053] An established connection was aborted by the software in your host machine
+2025-06-29 23:24:44,918 - INFO - Receiving file: Screenshot 2025-06-07 151425.png (531636 bytes) from ('127.0.0.1', 55988)
+2025-06-29 23:24:44,918 - INFO - Connection from ('127.0.0.1', 55989)
+2025-06-29 23:24:44,919 - INFO - Connection from ('127.0.0.1', 55996)
+2025-06-29 23:24:44,919 - INFO - Receiving file: Screenshot 2025-06-07 151425.png (531636 bytes) from ('127.0.0.1', 55989)
+2025-06-29 23:24:44,919 - ERROR - Error handling client ('127.0.0.1', 55988): [WinError 10053] An established connection was aborted by the software in your host machine
+2025-06-29 23:24:44,920 - INFO - Receiving file: Screenshot 2025-06-07 151425.png (531636 bytes) from ('127.0.0.1', 55996)
+2025-06-29 23:24:44,925 - ERROR - Error handling client ('127.0.0.1', 55989): [WinError 10053] An established connection was aborted by the software in your host machine
+2025-06-29 23:24:44,935 - ERROR - Error handling client ('127.0.0.1', 55996): [WinError 10053] An established connection was aborted by the software in your host machine
+2025-06-29 23:25:06,975 - INFO - Connection from ('127.0.0.1', 56000)
+2025-06-29 23:25:06,976 - INFO - Receiving file: Screenshot 2025-06-07 151425.png (531636 bytes) from ('127.0.0.1', 56000)
+2025-06-29 23:25:06,981 - INFO - File received successfully: Screenshot 2025-06-07 151425.png (531636 bytes)
+2025-06-29 23:25:07,029 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 23:25:07,033 - INFO - Scan result for Screenshot 2025-06-07 151425.png: OK - File appears clean (fallback scan, 531636 bytes)
+2025-06-29 23:25:35,689 - INFO - Connection from ('127.0.0.1', 56007)
+2025-06-29 23:25:35,690 - INFO - Receiving file: virus1.txt (68 bytes) from ('127.0.0.1', 56007)
+2025-06-29 23:25:35,691 - INFO - File received successfully: virus1.txt (68 bytes)
+2025-06-29 23:25:35,737 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 23:25:35,740 - INFO - Scan result for virus1.txt: WARNING - Suspicious content detected: virus (fallback scan)
+2025-06-29 23:29:17,192 - INFO - ClamAV Agent stopped
+2025-06-29 23:29:17,196 - INFO - ClamAV Agent stopped
+2025-06-29 23:29:51,395 - INFO - ClamAV Agent started on 0.0.0.0:9999
+2025-06-29 23:29:57,700 - INFO - Connection from ('127.0.0.1', 56066)
+2025-06-29 23:29:57,724 - INFO - Receiving file: virus1.txt (68 bytes) from ('127.0.0.1', 56066)
+2025-06-29 23:29:57,726 - INFO - File received successfully: virus1.txt (68 bytes)
+2025-06-29 23:29:57,773 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 23:29:57,775 - INFO - Scan result for virus1.txt: WARNING - Suspicious content detected: virus (fallback scan)
+2025-06-29 23:31:02,640 - INFO - Connection from ('127.0.0.1', 56113)
+2025-06-29 23:31:02,643 - WARNING - No data received from ('127.0.0.1', 56113)
+2025-06-29 23:31:08,128 - INFO - Connection from ('127.0.0.1', 56116)
+2025-06-29 23:31:08,150 - INFO - Receiving file: virus1.txt (68 bytes) from ('127.0.0.1', 56116)
+2025-06-29 23:31:08,152 - INFO - File received successfully: virus1.txt (68 bytes)
+2025-06-29 23:31:08,199 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 23:31:08,201 - INFO - Scan result for virus1.txt: WARNING - Suspicious content detected: virus (fallback scan)
+2025-06-29 23:31:20,820 - INFO - Connection from ('127.0.0.1', 56126)
+2025-06-29 23:31:20,825 - INFO - Receiving file: picture.jpg (311723 bytes) from ('127.0.0.1', 56126)
+2025-06-29 23:31:20,831 - INFO - File received successfully: picture.jpg (311723 bytes)
+2025-06-29 23:31:20,882 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 23:31:20,883 - INFO - Scan result for picture.jpg: OK - File appears clean (fallback scan, 311723 bytes)
+2025-06-29 23:31:58,405 - INFO - Connection from ('127.0.0.1', 56147)
+2025-06-29 23:31:58,411 - INFO - Receiving file: 222.txt (68 bytes) from ('127.0.0.1', 56147)
+2025-06-29 23:31:58,414 - INFO - File received successfully: 222.txt (68 bytes)
+2025-06-29 23:31:58,469 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 23:31:58,479 - INFO - Scan result for 222.txt: WARNING - Suspicious content detected: virus (fallback scan)
+2025-06-29 23:32:00,227 - INFO - Connection from ('127.0.0.1', 56148)
+2025-06-29 23:32:00,232 - INFO - Receiving file: clamav_agent.py (1126 bytes) from ('127.0.0.1', 56148)
+2025-06-29 23:32:00,234 - INFO - File received successfully: clamav_agent.py (1126 bytes)
+2025-06-29 23:32:00,282 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 23:32:00,284 - INFO - Scan result for clamav_agent.py: OK - File appears clean (fallback scan, 1126 bytes)
+2025-06-29 23:32:01,147 - INFO - Connection from ('127.0.0.1', 56151)
+2025-06-29 23:32:01,153 - INFO - Receiving file: clean1.txt (0 bytes) from ('127.0.0.1', 56151)
+2025-06-29 23:32:01,156 - INFO - File received successfully: clean1.txt (0 bytes)
+2025-06-29 23:32:01,205 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 23:32:01,207 - INFO - Scan result for clean1.txt: OK - File appears clean (fallback scan, 0 bytes)
+2025-06-29 23:32:01,828 - INFO - Connection from ('127.0.0.1', 56154)
+2025-06-29 23:32:01,832 - INFO - Receiving file: ftp_client.py (8532 bytes) from ('127.0.0.1', 56154)
+2025-06-29 23:32:01,835 - INFO - File received successfully: ftp_client.py (8532 bytes)
+2025-06-29 23:32:01,879 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 23:32:01,881 - INFO - Scan result for ftp_client.py: OK - File appears clean (fallback scan, 8532 bytes)
+2025-06-29 23:32:02,379 - INFO - Connection from ('127.0.0.1', 56157)
+2025-06-29 23:32:02,384 - INFO - Receiving file: hi.txt (7 bytes) from ('127.0.0.1', 56157)
+2025-06-29 23:32:02,386 - INFO - File received successfully: hi.txt (7 bytes)
+2025-06-29 23:32:02,432 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 23:32:02,435 - INFO - Scan result for hi.txt: OK - File appears clean (fallback scan, 7 bytes)
+2025-06-29 23:32:02,963 - INFO - Connection from ('127.0.0.1', 56160)
+2025-06-29 23:32:02,968 - INFO - Receiving file: picture.jpg (311723 bytes) from ('127.0.0.1', 56160)
+2025-06-29 23:32:02,973 - INFO - File received successfully: picture.jpg (311723 bytes)
+2025-06-29 23:32:03,018 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 23:32:03,020 - INFO - Scan result for picture.jpg: OK - File appears clean (fallback scan, 311723 bytes)
+2025-06-29 23:32:03,725 - INFO - Connection from ('127.0.0.1', 56163)
+2025-06-29 23:32:03,730 - INFO - Receiving file: virus.txt (68 bytes) from ('127.0.0.1', 56163)
+2025-06-29 23:32:03,732 - INFO - File received successfully: virus.txt (68 bytes)
+2025-06-29 23:32:03,778 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 23:32:03,780 - INFO - Scan result for virus.txt: WARNING - Suspicious content detected: virus (fallback scan)
+2025-06-29 23:32:05,260 - INFO - Connection from ('127.0.0.1', 56164)
+2025-06-29 23:32:05,265 - INFO - Receiving file: virus1.txt (68 bytes) from ('127.0.0.1', 56164)
+2025-06-29 23:32:05,267 - INFO - File received successfully: virus1.txt (68 bytes)
+2025-06-29 23:32:05,311 - WARNING - ClamAV scan failed: LibClamAV Error: cl_load(): No such file or directory: C:\Program Files\ClamAV\database
+ERROR: Can't get file status, using fallback
+2025-06-29 23:32:05,313 - INFO - Scan result for virus1.txt: WARNING - Suspicious content detected: virus (fallback scan)
+2025-06-29 23:36:10,953 - INFO - Connection from ('127.0.0.1', 56279)
+2025-06-29 23:36:10,955 - WARNING - No data received from ('127.0.0.1', 56279)
+2025-06-30 02:04:41,788 - INFO - ClamAV Agent started on 0.0.0.0:9999
+2025-06-30 02:04:45,713 - INFO - Connection from ('127.0.0.1', 57979)
+2025-06-30 02:04:45,714 - WARNING - No data received from ('127.0.0.1', 57979)
+2025-06-30 02:04:47,910 - INFO - Connection from ('127.0.0.1', 57980)
+2025-06-30 02:04:47,911 - WARNING - No data received from ('127.0.0.1', 57980)
+2025-06-30 02:06:33,363 - INFO - Connection from ('127.0.0.1', 57989)
+2025-06-30 02:06:33,364 - WARNING - No data received from ('127.0.0.1', 57989)
+2025-06-30 02:06:39,322 - INFO - Connection from ('127.0.0.1', 57994)
+2025-06-30 02:06:39,323 - WARNING - No data received from ('127.0.0.1', 57994)
+2025-06-30 02:12:57,838 - INFO - Connection from ('127.0.0.1', 58173)
+2025-06-30 02:12:57,839 - WARNING - No data received from ('127.0.0.1', 58173)
