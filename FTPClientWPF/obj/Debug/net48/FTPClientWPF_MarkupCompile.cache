@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-G:\FTPS-Client-ftp-over-ssl\FTPClientWPF\obj\Debug\net48\
+D:\project-FTP-Virus-scanner-main\FTPClientWPF\obj\Debug\net48\
 FTPClientWPF
 none
 false
 TRACE;DEBUG;NETFRAMEWORK;NET48;
-G:\FTPS-Client-ftp-over-ssl\FTPClientWPF\App.xaml
+D:\project-FTP-Virus-scanner-main\FTPClientWPF\App.xaml
 11407045341
 
 71204556214
-22559815587
+22-872807221
 MainWindow.xaml;
 
 False

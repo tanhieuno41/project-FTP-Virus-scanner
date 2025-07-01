@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = FTPClientWPF
-build_property.ProjectDir = G:\FTPS-Client-ftp-over-ssl\FTPClientWPF\
+build_property.ProjectDir = C:\Users\VICTUS\Documents\GitHub\project-FTP-Virus-scanner\FTPClientWPF\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

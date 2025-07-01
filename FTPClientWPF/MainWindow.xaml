@@ -225,7 +225,7 @@
                              BorderThickness="1"
                              Padding="8,6"
                              Text="localhost"
-                             Margin="0,8,0,0"/>
+                             Margin="0,8,0,0" TextChanged="txtClamAVHost_TextChanged"/>
 
                     <!-- ClamAV Port -->
                     <TextBlock Grid.Row="1" Grid.Column="2" 

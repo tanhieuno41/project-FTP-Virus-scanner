@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "G:\\FTPS-Client-ftp-over-ssl\\FTPClientWPF\\FTPClientWPF.csproj": {}
+    "C:\\Users\\VICTUS\\Documents\\GitHub\\project-FTP-Virus-scanner\\FTPClientWPF\\FTPClientWPF.csproj": {}
   },
   "projects": {
-    "G:\\FTPS-Client-ftp-over-ssl\\FTPClientWPF\\FTPClientWPF.csproj": {
+    "C:\\Users\\VICTUS\\Documents\\GitHub\\project-FTP-Virus-scanner\\FTPClientWPF\\FTPClientWPF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\FTPS-Client-ftp-over-ssl\\FTPClientWPF\\FTPClientWPF.csproj",
+        "projectUniqueName": "C:\\Users\\VICTUS\\Documents\\GitHub\\project-FTP-Virus-scanner\\FTPClientWPF\\FTPClientWPF.csproj",
         "projectName": "FTPClientWPF",
-        "projectPath": "G:\\FTPS-Client-ftp-over-ssl\\FTPClientWPF\\FTPClientWPF.csproj",
-        "packagesPath": "C:\\Users\\hieul\\.nuget\\packages\\",
-        "outputPath": "G:\\FTPS-Client-ftp-over-ssl\\FTPClientWPF\\obj\\",
+        "projectPath": "C:\\Users\\VICTUS\\Documents\\GitHub\\project-FTP-Virus-scanner\\FTPClientWPF\\FTPClientWPF.csproj",
+        "packagesPath": "C:\\Users\\VICTUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VICTUS\\Documents\\GitHub\\project-FTP-Virus-scanner\\FTPClientWPF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hieul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\VICTUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net48": {
@@ -55,7 +55,7 @@
               "version": "[13.0.3, )"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

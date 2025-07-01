@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "W72wPNVLIKg=",
+  "dgSpecHash": "0RGE6bx0YAU=",
   "success": true,
-  "projectFilePath": "G:\\FTPS-Client-ftp-over-ssl\\FTPClientWPF\\FTPClientWPF.csproj",
+  "projectFilePath": "C:\\Users\\VICTUS\\Documents\\GitHub\\project-FTP-Virus-scanner\\FTPClientWPF\\FTPClientWPF.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\hieul\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\VICTUS\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

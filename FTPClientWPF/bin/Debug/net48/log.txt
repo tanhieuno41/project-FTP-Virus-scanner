@@ -1,0 +1,59 @@
+01:31:20 [INFO] Connecting to 192.168.1.245:21...
+01:31:25 [INFO] Attempting connection to 192.168.1.245:21 (AddressFamily: InterNetwork)
+01:31:25 [SUCCESS] Socket connection established
+01:31:25 [RESP] Server: 220-FileZilla Server 1.10.3
+220 Please visit https://filezilla-project.org/
+01:31:25 [CMD] USER: 331 Please, specify the password.
+01:31:25 [CMD] PASS: 230 Login successful.
+01:31:25 [SUCCESS] Login successful
+01:31:25 [CMD] EPSV command: 229 Entering Extended Passive Mode (|||54507|)
+01:31:25 [CMD] LIST command: 150 Starting data transfer.
+01:31:25 [INFO] Loaded 8 items
+01:31:26 [CMD] LIST complete: 226 Operation successful
+01:32:14 [CMD] EPSV command: 229 Entering Extended Passive Mode (|||54523|)
+01:32:14 [CMD] LIST command: 150 Starting data transfer.
+01:32:14 [INFO] Loaded 8 items
+01:32:14 [CMD] LIST complete: 226 Operation successful
+01:33:38 [INFO] Preparing to upload: kiet.txt
+01:33:38 [INFO] Scanning file: kiet.txt (Path: C:\Users\VICTUS\kiet.txt)
+01:33:38 [WARNING] ClamAV Agent not connected, using fallback scan
+01:33:38 [WARNING] Performing fallback scan (simulated)
+01:33:39 [SUCCESS] File is clean. Uploading kiet.txt...
+01:33:39 [CMD] Transfer mode: 200 Type set to I
+01:33:39 [CMD] EPSV command: 229 Entering Extended Passive Mode (|||54539|)
+01:33:39 [INFO] Data connection established successfully
+01:33:39 [CMD] STOR command: 150 Starting data transfer.
+01:33:39 [SUCCESS] File kiet.txt uploaded successfully
+01:33:39 [CMD] EPSV command: 229 Entering Extended Passive Mode (|||54541|)
+01:33:39 [CMD] LIST command: 150 Starting data transfer.
+01:33:39 [INFO] Loaded 9 items
+01:33:39 [CMD] LIST complete: 226 Operation successful
+01:34:17 [INFO] Connecting to 192.168.1.245:21...
+01:34:22 [INFO] Attempting connection to 192.168.1.245:21 (AddressFamily: InterNetwork)
+01:34:22 [SUCCESS] Socket connection established
+01:34:22 [RESP] Server: 220-FileZilla Server 1.10.3
+220 Please visit https://filezilla-project.org/
+01:34:22 [CMD] USER: 331 Please, specify the password.
+01:34:22 [CMD] PASS: 230 Login successful.
+01:34:22 [SUCCESS] Login successful
+01:34:22 [CMD] EPSV command: 229 Entering Extended Passive Mode (|||54555|)
+01:34:22 [CMD] LIST command: 150 Starting data transfer.
+01:34:22 [INFO] Loaded 9 items
+01:34:22 [CMD] LIST complete: 226 Operation successful
+01:34:36 [INFO] Testing ClamAV Agent connection...
+01:34:36 [SUCCESS] ClamAV Agent connection successful
+01:35:55 [INFO] Added to upload queue: hello (2).txt
+01:35:57 [INFO] Preparing to upload: hello (2).txt
+01:35:57 [INFO] Scanning file: hello (2).txt (Path: C:\Users\VICTUS\hello (2).txt)
+01:35:57 [SUCCESS] File is clean. Uploading hello (2).txt...
+01:35:57 [CMD] Transfer mode: 200 Type set to I
+01:35:57 [CMD] EPSV command: 229 Entering Extended Passive Mode (|||54574|)
+01:35:57 [INFO] Data connection established successfully
+01:35:57 [CMD] STOR command: 150 Starting data transfer.
+01:35:57 [SUCCESS] File hello (2).txt uploaded successfully
+01:35:57 [CMD] EPSV command: 229 Entering Extended Passive Mode (|||54576|)
+01:35:57 [CMD] LIST command: 150 Starting data transfer.
+01:35:57 [ERROR] Parse directory error: This type of CollectionView does not support changes to its SourceCollection from a thread different from the Dispatcher thread.
+01:35:57 [CMD] LIST complete: 226 Operation successful
+01:35:57 [SUCCESS] Upload completed: hello (2).txt
+01:36:12 [INFO] Upload queue cleared

@@ -1535,21 +1535,22 @@ namespace FTPClientWPF
 
         private bool ValidateServerCertificate(object sender, X509Certificate certificate, X509Chain chain, SslPolicyErrors sslPolicyErrors)
         {
-            if (sslPolicyErrors == SslPolicyErrors.None)
-            {
-                return true; // Certificate is valid
-            }
+            //if (sslPolicyErrors == SslPolicyErrors.None)
+            //{
+            //    return true; // Certificate is valid
+            //}
 
-            AppendLog($"SSL certificate error: {sslPolicyErrors}", LogType.Error);
+            //AppendLog($"SSL certificate error: {sslPolicyErrors}", LogType.Error);
 
-            // Optional: log details of the cert
-            if (certificate != null)
-            {
-                AppendLog($"Certificate subject: {certificate.Subject}", LogType.Warning);
-                AppendLog($"Certificate issuer: {certificate.Issuer}", LogType.Warning);
-            }
+            //// Optional: log details of the cert
+            //if (certificate != null)
+            //{
+            //    AppendLog($"Certificate subject: {certificate.Subject}", LogType.Warning);
+            //    AppendLog($"Certificate issuer: {certificate.Issuer}", LogType.Warning);
+            //}
 
-            return false;
+            //return false;
+            return true;
         }
 
 
@@ -1878,7 +1879,7 @@ namespace FTPClientWPF
                 }
                 
                 string logEntry = $"{timestamp} {prefix} {message}";
-                
+                File.AppendAllText("log.txt", logEntry + "\r\n");
                 Dispatcher.Invoke(() =>
                 {
                     txtLog.AppendText(logEntry + Environment.NewLine);
@@ -2044,7 +2045,10 @@ namespace FTPClientWPF
                         IsDirectory = false
                     };
                     LocalFiles.Add(fileItem);
+                    var FileTreeItem = new TreeViewItem { Header = fileInfo.Name, Tag = file };
+                    LocalTreeView.Items.Add(FileTreeItem);
                 }
+
             }
             catch (Exception ex)
             {
@@ -2280,6 +2284,11 @@ namespace FTPClientWPF
                 btnPrompt.Background = new SolidColorBrush(Color.FromRgb(220, 53, 69)); // Red
                 AppendLog("Prompt disabled", LogType.Warning);
             }
+        }
+
+        private void txtClamAVHost_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
         }
     }
 
